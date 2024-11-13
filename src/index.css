@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+   background-color: black;
+}
+h1{
+  color:plum;
+  font-family: cursive;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  
+}
+ .form-check{
+  position: absolute;
+  top:80px;
+  left:270px;
+
+}
+
+.card{
+  position: absolute;
+  top:150px;
+  left:70px;
+  height:180px;
+}
+.range{
+  cursor: pointer;
+  
+ position: absolute;
+ top:70px;
+ left:30px;
+}
